@@ -34,3 +34,7 @@ docs
 .vscode
 tone.d.ts
 examples/scratch.ts
+
+# meta-ops cleanup
+Thumbs.db
+node_modules/
